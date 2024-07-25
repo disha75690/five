@@ -3,3 +3,6 @@ mango
 orange
 pineapple
 grappes
+jackfruit
+watermillon
+sapota
